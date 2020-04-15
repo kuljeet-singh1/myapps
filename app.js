@@ -1,1 +1,1 @@
-Console.log('This is test app');
+Console.log('This is test app.');
